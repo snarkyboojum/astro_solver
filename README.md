@@ -13,7 +13,7 @@ Eventually the library might be embeddable, and so having minimal runtime requir
 ## Further information
 
 - [Astrometic solving](https://en.wikipedia.org/wiki/Astrometric_solving) on Wikipedia
-- [Gaia Data Release 2](https://gea.esac.esa.int/archive/documentation/GDR2/) from the ESA
+- [Gaia Data Release 2](https://gea.esac.esa.int/archive/documentation/GDR2/) from the European Space Agency (ESA)
 - [Gaia Data](https://gea.esac.esa.int/archive/) from the Gaia Archive
     - [Gaia Source Data (CSV)](http://cdn.gea.esac.esa.int/Gaia/gdr2/gaia_source/csv/)
     - [Data Model](https://gea.esac.esa.int/archive/documentation/GDR2/Gaia_archive/chap_datamodel/)
