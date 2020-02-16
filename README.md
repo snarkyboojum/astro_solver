@@ -16,3 +16,9 @@ Eventually the library might be embeddable, and so having minimal runtime requir
 - [Gaia Data Release 2](https://gea.esac.esa.int/archive/documentation/GDR2/) from the ESA
 - [Gaia Data](https://gea.esac.esa.int/archive/) from the Gaia Archive
 - [FITS World Coordinate System (WCS)](https://fits.gsfc.nasa.gov/fits_wcs.html)
+
+## Other reading
+
+- [Astrometry.net: Blind astrometric calibration of arbitrary astronomical images](https://arxiv.org/abs/0910.2233)
+- [Making the Sky Searchable](https://cosmo.nyu.edu/hogg/research/2006/09/28/astrometry_google.pdf)
+- [Blind astrometric calibration of arbitrary astronomical images](http://www.ppenteado.net/ast/pp_astrometry_201110.pdf)
