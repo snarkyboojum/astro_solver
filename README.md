@@ -15,6 +15,7 @@ Eventually the library might be embeddable, and so having minimal runtime requir
 - [Astrometic solving](https://en.wikipedia.org/wiki/Astrometric_solving) on Wikipedia
 - [Gaia Data Release 2](https://gea.esac.esa.int/archive/documentation/GDR2/) from the ESA
 - [Gaia Data](https://gea.esac.esa.int/archive/) from the Gaia Archive
+    - [Gaia Source Data (CSV)](http://cdn.gea.esac.esa.int/Gaia/gdr2/gaia_source/csv/)
 - [FITS World Coordinate System (WCS)](https://fits.gsfc.nasa.gov/fits_wcs.html)
 
 ## Other reading
