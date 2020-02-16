@@ -2,7 +2,7 @@
 
 This library provides a simple and fast software astrometric solver, implemented in Rust.
 
-The Gaia Catalogue is used for as an up to date, comprehensive and accurate astrometric reference catalogue. The model returned is based on the World Coordinate System (WCS), which is a simple linear model. Eventually a more sophisticated method, perhaps based on Simple Imaging Polynomial (SIP) might be implemented.
+The Gaia Catalogue is used as an up-to-date, comprehensive and accurate astrometric reference catalogue. The model returned is based on the World Coordinate System (WCS), which is a simple linear model. Eventually a more sophisticated method, perhaps based on Simple Imaging Polynomial (SIP) might be implemented.
 
 ## Objectives
 
